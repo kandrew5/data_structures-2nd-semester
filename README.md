@@ -1,2 +1,2 @@
-# data_structures-2nd-semester
-project_2nd_sem
+# data_structures-4nd-semester
+project_4nd_sem
