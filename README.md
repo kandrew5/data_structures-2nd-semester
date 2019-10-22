@@ -1,2 +1,2 @@
-# data_structures-4nd-semester
-Υλοποίηση μερικών sorting algorithms, Red-Black Trees και Tries σε Java
+# data_structures
+Implementation of sorting algorithms, Red-Black Trees,Tries with Java
